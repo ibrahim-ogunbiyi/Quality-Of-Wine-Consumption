@@ -10,3 +10,4 @@ The datasets can be viewed as classification or regression tasks. The classes ar
 This dataset is also available from the UCI machine learning repository, https://archive.ics.uci.edu/ml/datasets/wine+quality.
 
 
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d9adoz66jey1jj3pot7a.jpg)
